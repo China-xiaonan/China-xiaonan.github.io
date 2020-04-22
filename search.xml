@@ -8,7 +8,7 @@
       <link href="/2020/04/20/hello-world/"/>
       <url>/2020/04/20/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>这里是本站的第一篇文章啦，希望大家继续支持</p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=438803182&auto=1&height=66"></iframe>]]></content>
+        <content type="html"><![CDATA[<p> class="lazyload" data-src="https://cdn.jsdelivr.net/gh/xngzs/images@1.0/1.jpg" <img src="/"> <br><br>这里是本站的第一篇文章啦，希望大家继续支持</p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=438803182&auto=1&height=66"></iframe>]]></content>
       
       
       <categories>
